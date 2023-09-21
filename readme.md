@@ -1,3 +1,3 @@
 # trpc basics
 
-simple http request
+simple http request using trpc
